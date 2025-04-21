@@ -1,0 +1,6 @@
+- Khi khởi động chờ khoảng 10s để MPU khởi động.
+- Sau đó gửi lệnh reset CPU từ matlab và đợi 10s MPU khởi động tiếp
+- Khi khởi động xong vào file "test ko map" trên matlab gửi vị trí cần đến
+	+ Xe chạy tới điểm đó và quay tại chỗ tìm vật gắp bằng camera (code NHỰT)
+	+ Khi thấy vật xe tiến đến cách vật X cm thì đừng
+** v9 mới code đến đây. 
